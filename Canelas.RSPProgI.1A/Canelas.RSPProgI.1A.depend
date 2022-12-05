@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670244108 source:c:\users\tom\desktop\tup 1er cuatrimestre\programación 1\clase1\canelas.rspprogi.1a\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
